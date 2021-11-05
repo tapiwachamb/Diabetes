@@ -1,0 +1,193 @@
+2021-11-05 13:39:07,685:INFO:Initializing load_model()
+2021-11-05 13:39:07,686:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 13:39:18,958:INFO:Initializing load_model()
+2021-11-05 13:39:18,958:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 13:39:19,194:INFO:Initializing predict_model()
+2021-11-05 13:39:19,197:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Outcome')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='Outcome')),
+                ('fix_perfect', Remove_100(target='Outcome')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=8789)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-11-05 13:39:19,203:INFO:Checking exceptions
+2021-11-05 13:39:19,215:INFO:Preloading libraries
+2021-11-05 21:25:32,629:INFO:Initializing load_model()
+2021-11-05 21:25:32,630:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 21:33:16,641:INFO:Initializing load_model()
+2021-11-05 21:33:16,642:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 21:33:33,380:INFO:Initializing load_model()
+2021-11-05 21:33:33,381:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 21:40:13,344:INFO:Initializing load_model()
+2021-11-05 21:40:13,345:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 21:45:17,772:INFO:Initializing load_model()
+2021-11-05 21:45:17,772:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 21:45:23,670:INFO:Initializing predict_model()
+2021-11-05 21:45:23,670:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Outcome')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='Outcome')),
+                ('fix_perfect', Remove_100(target='Outcome')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=8789)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-11-05 21:45:23,671:INFO:Checking exceptions
+2021-11-05 21:45:23,672:INFO:Preloading libraries
+2021-11-05 21:46:47,340:INFO:Initializing load_model()
+2021-11-05 21:46:47,341:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 21:46:47,428:INFO:Initializing predict_model()
+2021-11-05 21:46:47,428:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Outcome')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='Outcome')),
+                ('fix_perfect', Remove_100(target='Outcome')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=8789)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-11-05 21:46:47,430:INFO:Checking exceptions
+2021-11-05 21:46:47,430:INFO:Preloading libraries
+2021-11-05 23:15:09,919:INFO:Initializing load_model()
+2021-11-05 23:15:09,920:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:15:24,935:INFO:Initializing load_model()
+2021-11-05 23:15:24,935:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:15:30,257:INFO:Initializing load_model()
+2021-11-05 23:15:30,258:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:15:35,355:INFO:Initializing load_model()
+2021-11-05 23:15:35,355:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:15:38,124:INFO:Initializing load_model()
+2021-11-05 23:15:38,124:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:17:40,004:INFO:Initializing load_model()
+2021-11-05 23:17:40,004:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:17:44,789:INFO:Initializing load_model()
+2021-11-05 23:17:44,790:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:17:47,249:INFO:Initializing load_model()
+2021-11-05 23:17:47,249:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:17:51,203:INFO:Initializing load_model()
+2021-11-05 23:17:51,203:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:17:52,034:INFO:Initializing load_model()
+2021-11-05 23:17:52,035:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:17:52,146:INFO:Initializing predict_model()
+2021-11-05 23:17:52,146:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Outcome')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='Outcome')),
+                ('fix_perfect', Remove_100(target='Outcome')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=8789)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-11-05 23:17:52,150:INFO:Checking exceptions
+2021-11-05 23:17:52,151:INFO:Preloading libraries
+2021-11-05 23:18:46,665:INFO:Initializing load_model()
+2021-11-05 23:18:46,666:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:18:51,937:INFO:Initializing load_model()
+2021-11-05 23:18:51,938:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:18:56,010:INFO:Initializing load_model()
+2021-11-05 23:18:56,011:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:19:02,415:INFO:Initializing load_model()
+2021-11-05 23:19:02,415:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:19:07,851:INFO:Initializing load_model()
+2021-11-05 23:19:07,852:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:19:11,166:INFO:Initializing load_model()
+2021-11-05 23:19:11,166:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:19:44,207:INFO:Initializing load_model()
+2021-11-05 23:19:44,209:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:19:53,982:INFO:Initializing load_model()
+2021-11-05 23:19:53,982:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:19:58,405:INFO:Initializing load_model()
+2021-11-05 23:19:58,406:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:02,037:INFO:Initializing load_model()
+2021-11-05 23:20:02,037:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:06,096:INFO:Initializing load_model()
+2021-11-05 23:20:06,096:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:10,078:INFO:Initializing load_model()
+2021-11-05 23:20:10,079:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:16,741:INFO:Initializing load_model()
+2021-11-05 23:20:16,742:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:19,378:INFO:Initializing load_model()
+2021-11-05 23:20:19,378:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:24,399:INFO:Initializing load_model()
+2021-11-05 23:20:24,400:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:25,596:INFO:Initializing load_model()
+2021-11-05 23:20:25,597:INFO:load_model(model_name=Diabetes, platform=None, authentication=None, verbose=True)
+2021-11-05 23:20:25,743:INFO:Initializing predict_model()
+2021-11-05 23:20:25,744:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='Outcome')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    tar...
+                ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='Outcome')),
+                ('fix_perfect', Remove_100(target='Outcome')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=8789)]]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-11-05 23:20:25,849:INFO:Checking exceptions
+2021-11-05 23:20:25,853:INFO:Preloading libraries
