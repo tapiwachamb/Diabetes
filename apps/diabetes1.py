@@ -15,7 +15,7 @@ def app():
     st.set_option('deprecation.showPyplotGlobalUse', False)
     def predict(model, input_df):
         predictions_df = predict_model(estimator=model, data=input_df)
-        predictions = predictions_df['Label'][0]
+        predictions = predictions_df['prediction_label'][0]
         return predictions
 
    
