@@ -16,7 +16,7 @@ import requests
 def app():
     st.title('Home')
     st.markdown("""
-                ## Early Diabetes Detection Machine learning App.
+                ## Early Diabetes Detection Machine learning App.  [Tapiwa Chamboko]
                 
 
 
