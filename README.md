@@ -23,9 +23,11 @@ I'm a full stack developer experienced in deploying artificial intelligence powe
 
 ## Empowered Diabetes Management with Personalized Insights
 
-## Problem: Ineffective blood glucose management among individuals with diabetes can lead to complications and a diminished quality of life.
+## Problem: 
+Ineffective blood glucose management among individuals with diabetes can lead to complications and a diminished quality of life.
 
-## Solution: The Early Diabetes Prediction App offers personalized insights into blood glucose patterns, enabling individuals to understand the impact of lifestyle choices and medications on their condition.
+## Solution: 
+The Early Diabetes Prediction App offers personalized insights into blood glucose patterns, enabling individuals to understand the impact of lifestyle choices and medications on their condition.
 
 ## Results:
 
