@@ -1,7 +1,22 @@
 
-# Early Diabetes Prediction
+# Early Diabetes Prediction For Empowered Diabetes Management with Personalized Insights
 
 ##  *A machine learning model  for Early Diabetes detection*
+
+## Problem: 
+Ineffective blood glucose management among individuals with diabetes can lead to complications and a diminished quality of life.
+
+## Solution: 
+The Early Diabetes Prediction App offers personalized insights into blood glucose patterns, enabling individuals to understand the impact of lifestyle choices and medications on their condition.
+
+## Results:
+
+- Enhanced blood glucose control, reducing the risk of complications by up to 30%.
+
+- Improved self-management skills and confidence in diabetes management, as reported by 85% of app users.
+
+- Decreased reliance on healthcare professionals for routine monitoring, with a 20% reduction in follow-up appointments.
+## Demo
 
 
 ![APP](https://drive.google.com/uc?id=1qd7Og6ij_KCO_0n8s7n8Y3CxSURyPqFn&export=download)
@@ -20,23 +35,6 @@ I'm a full stack developer experienced in deploying artificial intelligence powe
 ## Authors
 
 - [@Tapiwa chamboko](https://github.com/tapiwachamb)
-
-## Empowered Diabetes Management with Personalized Insights
-
-## Problem: 
-Ineffective blood glucose management among individuals with diabetes can lead to complications and a diminished quality of life.
-
-## Solution: 
-The Early Diabetes Prediction App offers personalized insights into blood glucose patterns, enabling individuals to understand the impact of lifestyle choices and medications on their condition.
-
-## Results:
-
-- Enhanced blood glucose control, reducing the risk of complications by up to 30%.
-
-- Improved self-management skills and confidence in diabetes management, as reported by 85% of app users.
-
-- Decreased reliance on healthcare professionals for routine monitoring, with a 20% reduction in follow-up appointments.
-## Demo
 
 **Live demo**
 
